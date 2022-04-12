@@ -1,0 +1,6 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all MD (Markdown) files:
+*.md
