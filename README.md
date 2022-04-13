@@ -2,9 +2,9 @@
 
 This is my personal reading list of books related to the programming and personal development.
 
-| Id  | Name EBOOK | Closed Page Reminder | Status | LC  | Year | Pages | Link Amazon | Ebook |
-| --- | ---------- | -------------------- | ------ | --- | ---- | ----- | ----------- | ----- |
-|- 01 | Agile - Desenvolvimento de software com entregas frequentes e foco no valor dos negócios | Ch3.7-Pg65 | In Progress | 🇧🇷 | 2014 | 214 | [Link](https://www.amazon.com.br/Agile-Desenvolvimento-software-entregas-frequentes-ebook/dp/B00VABA98G) | [eBook](./EBOOKS/Agile-Desenvolvimento_de_software_com_entregas_frequentes_e_foco_no_valor_de_neg%C3%B3cio-2014.pdf) |
+| Id  | Name EBOOK | Closed Page Reminder | Status | LC  | Year | Pages | Link  | 
+| --- | ---------- | -------------------- | ------ | --- | ---- | ----- | ----- | 
+| 01 | Agile - Desenvolvimento de software com entregas frequentes e foco no valor dos negócios | Ch5.1-Pg107 | In Progress | 🇧🇷 | 2014 | 214 | [Link](https://www.amazon.com.br/Agile-Desenvolvimento-software-entregas-frequentes-ebook/dp/B00VABA98G) | 
 
 <!--
 | 02  | Azure - Coloque suas plataformas e serviços no cloud                                     | ✅                   | Done        | 🇧🇷  | 2015 | 206   | [Link](https://www.amazon.com.br/Azure-Coloque-plataformas-servi%C3%A7os-cloud-ebook/dp/B019NR1IB0)                  |
