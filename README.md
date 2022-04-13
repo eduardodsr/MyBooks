@@ -5,23 +5,11 @@ This is my personal reading list of books related to the programming and persona
 | Id  | Name EBOOK | Closed Page Reminder | Status | LC  | Year | Pages | Link  | 
 | --- | ---------- | -------------------- | ------ | --- | ---- | ----- | ----- | 
 | 01 | Agile - Desenvolvimento de software com entregas frequentes e foco no valor dos negócios | Ch5.1-Pg107 | In Progress | 🇧🇷 | 2014 | 214 | [Link](https://www.amazon.com.br/Agile-Desenvolvimento-software-entregas-frequentes-ebook/dp/B00VABA98G) | 
-
-<!--
-| 02  | Azure - Coloque suas plataformas e serviços no cloud                                     | ✅                   | Done        | 🇧🇷  | 2015 | 206   | [Link](https://www.amazon.com.br/Azure-Coloque-plataformas-servi%C3%A7os-cloud-ebook/dp/B019NR1IB0)                  |
-| 03  | Começando com Linux Comandos, serviços e administração                                   | Ch2-Pg31             | In Progress | 🇧🇷  | 2014 | 139   | [Link](https://www.amazon.com.br/Come%C3%A7ando-com-Linux-Comandos-administra%C3%A7%C3%A3o-ebook/dp/B00VAALZ58)      |
-| 04  | Construindo APIs REST com Node.js [Caio Ribeiro Pereira]                                 | Ch1[ok]-Pg18         | In Progress | 🇧🇷  | 2016 | 230   | [Link](https://www.amazon.com.br/Construindo-APIs-REST-com-Node-js-ebook/dp/B01C7TGGHC)                              |
-| 05  | Controlando versões com Git e Github                                                     | Ch2.1-Pg15           | In Progress | 🇧🇷  | 2014 | 199   | [Link](https://www.amazon.com.br/Controlando-Vers%C3%B5es-com-Git-GitHub/dp/8566250532)                              |
-| 06  | Desbravando Java e Orientação a Objetos                                                  | Ch1.3-Pg14           | In Progress | 🇧🇷  | 2014 | 225   | [Link](https://www.amazon.com.br/Desbravando-Orienta%C3%A7%C3%A3o-Objetos-Iniciante-Linguagem/dp/8555190584)         |
-| 07  | Desconstruindo a Web As tecnologias por trás de uma requisição                           | ❌                   | To Do       | 🇧🇷  | 2016 | 279   | [Link](https://www.amazon.com.br/Desconstruindo-Web-tecnologias-tr%C3%A1s-requisi%C3%A7%C3%A3o-ebook/dp/B01L7VDZC0)  |
-| 08  | Design Patterns com Java - Projeto orientado a objetos                                   | ❌                   | To Do       | 🇧🇷  | 2012 | 334   | [Link](https://www.casadocodigo.com.br/products/livro-design-patterns)                                               |
-| 09  | ECMAScript 6 - Entre de cabeça no futuro do JavaScript                                   | ❌                   | To Do       | 🇧🇷  | 2017 | 235   | [Link](https://www.amazon.com.br/ECMAScript-Entre-cabe%C3%A7a-futuro-JavaScript-ebook/dp/B06XWH5WKB)                 |
-
--->
+| 02  | Controlando versões com Git e Github | Ch3-Pg27 | In Progress | 🇧🇷  | 2014 | 199   | [Link](https://www.amazon.com.br/Controlando-Vers%C3%B5es-com-Git-GitHub/dp/8566250532)  |
+| 03  | Jenkins - Automatize tudo sem complicacoes   | Ch3-Pg33   | In Progress | 🇧🇷  | 2019 | 188   | [Link](https://www.casadocodigo.com.br/products/livro-jenkins) |
 
 <!--
 
-| 10  | Guia Front-End O caminho das pedras para ser um dev front-end                            | ❌                   | To Do       | 🇧🇷  | 2015 | 174   | [Link](https://www.amazon.com.br/Guia-Front-End-Caminho-Pedras-Front-End/dp/8555190126)                              |
-| 11  | Jenkins - Automatize tudo sem complicacoes                                               | ❌                   | To Do       | 🇧🇷  | 2019 | 188   | [Link](https://www.casadocodigo.com.br/products/livro-jenkins)                                                       |
 | 12  | Métricas Ágeis Obtenha melhores resultados em sua equipe                                 | ❌                   | To Do       | 🇧🇷  | 2017 | 262   | [Link](https://www.casadocodigo.com.br/products/livro-metricas-ageis)                                                |
 | 13  | MongoDB Construa novas aplicações com novas tecnologias                                  | ❌                   | To Do       | 🇧🇷  | 2020 | 397   | [Link](https://www.amazon.com.br/MongoDB-Construa-novas-aplica%C3%A7%C3%B5es-tecnologias-ebook/dp/B019OZ902U)        |
 | 14  | MundoJ Orientação a Objetos                                                              | ❌                   | To Do       | 🇧🇷  | 2014 | 82    | [Link](https://www.casadocodigo.com.br/products/livro-mundoj-orientacao-objetos)                                     |
