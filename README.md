@@ -7,6 +7,7 @@ This is my personal reading list of books related to the programming and persona
 | 01 | Agile - Desenvolvimento de software com entregas frequentes e foco no valor dos negócios | Ch5.1-Pg107 | In Progress | 🇧🇷 | 2014 | 214 | [Link](https://www.amazon.com.br/Agile-Desenvolvimento-software-entregas-frequentes-ebook/dp/B00VABA98G) | 
 | 02  | Controlando versões com Git e Github | Ch3-Pg27 | In Progress | 🇧🇷  | 2014 | 199   | [Link](https://www.amazon.com.br/Controlando-Vers%C3%B5es-com-Git-GitHub/dp/8566250532)  |
 | 03  | Jenkins - Automatize tudo sem complicacoes   | Ch3-Pg33   | In Progress | 🇧🇷  | 2019 | 188   | [Link](https://www.casadocodigo.com.br/products/livro-jenkins) |
+| 04  | UML 2 - Uma Abordagem Prática - 3ª Edição: uma Abordagem Prática   | Ch2-Pg49  | In Progress | 🇧🇷  | 2018 | 657 | [Link](https://www.amazon.com.br/UML-2-Uma-Abordagem-Pr%C3%A1tica/dp/8575226460) |
 
 <!--
 
