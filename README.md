@@ -14,16 +14,7 @@ This is my personal reading list of books related to the programming and persona
 | 08  | 14 Hábitos de Desenvolvedores Altamente Produtivos by Zeno Rocha | Pg15 | In Progress | 🇧🇷  | 2020 | 135   | [Link](https://www.amazon.com.br/14-H%C3%A1bitos-de-Desenvolvedores-Altamente-Produtivos/dp/B08BF7PZZX/) |
 | 09  | Java - Como Programar [10ª Ed][deitel & deitel][2016]  | Ch1[ok]  | In Progress | 🇧🇷  | 2016 | 970   | [Link](https://www.amazon.com.br/Java%C2%AE-como-programar-Paul-Deitel/dp/8543004799)     |
 | 10  |  Head First Java, 2nd Edition by Kathy Sierra, Bert Bates (Use a Cabeça Java)  | Pg49  | In Progress | 🇧🇷  | 2017 | 496  | [Link](https://www.amazon.com.br/Use-cabe%C3%A7a-Java-Bert-Bates/dp/8576081733)     |
-
-<!--
-
-| 18  | Orientação a Objetos e SOLID para Ninjas                                                 | ❌                   | To Do       | 🇧🇷  | 2015 | 176   | [Link](https://www.amazon.com.br/Orienta%C3%A7%C3%A3o-Objetos-SOLID-para-Ninjas-ebook/dp/B019OU0G5U)                 |
-| 23  | Scrum Gestão Ágil para Projetos de Sucesso                                               | ❌                   | To Do       | 🇧🇷  | 2014 | 372   | [Link](https://www.amazon.com.br/Scrum-Gest%C3%A3o-%C3%A1gil-projetos-sucesso-ebook/dp/B00VAB1GSS)                   |
-| 25  | Test-Driven Development Teste e Design no Mundo Real com Java                            | ❌                   | To Do       | 🇧🇷  | 2014 | 215   | [Link](https://www.amazon.com.br/Test-Driven-Development-Teste-Design-Mundo-ebook/dp/B00WKMN24W)                     |
-| 26  | Testes Automatizados de Software Um guia prático                                         | ❌                   | To Do       | 🇧🇷  | 2015 | 208   | [Link](https://www.amazon.com.br/Testes-automatizados-software-guia-pr%C3%A1tico-ebook/dp/B019P83CAC)                |
-
-| 32  | Engenharia de Software - Ian Sommerville - 9ed - 2011                                    | ❌                   | To Do       | 🇺🇸  |
-| 33  | Enhenharia de Software - Uma Aborgagem Profissional -8ed- 2016                           | ❌                   | To Do       | 🇺🇸  |
-| 34  | JavaScript: The Definitive Guide, 6E - 2011                                              | ❌                   | To Do       | 🇺🇸  |
-
--->
+| 11  | Arquitetura Limpa by Robert C. Martin | Ch7 [Kindle 22%]  | In Progress | 🇧🇷  | 2020 | Ch34 [495] | [Link](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/)     |
+| 12 | TDD - Desenvolvimento Guiado por Testes - by Ken Beck | Ch1-Pg18  | To Do | 🇧🇷  | 2010 | 215   | [Link](https://#)  |
+| 13  | Engenharia de Software - Ian Sommerville - 9ed - 2011                                    | ❌  | To Do       | 🇺🇸  |
+| 14  | JavaScript: The Definitive Guide, 6E - 2011                                              | ❌  | To Do       | 🇺🇸  |
