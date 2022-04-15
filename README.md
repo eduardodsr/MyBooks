@@ -8,6 +8,7 @@ This is my personal reading list of books related to the programming and persona
 | 02  | Controlando versões com Git e Github | Ch3-Pg27 | In Progress | 🇧🇷  | 2014 | 199   | [Link](https://www.amazon.com.br/Controlando-Vers%C3%B5es-com-Git-GitHub/dp/8566250532)  |
 | 03  | Jenkins - Automatize tudo sem complicacoes   | Ch3-Pg33   | In Progress | 🇧🇷  | 2019 | 188   | [Link](https://www.casadocodigo.com.br/products/livro-jenkins) |
 | 04  | UML 2 - Uma Abordagem Prática - 3ª Edição: uma Abordagem Prática   | Ch2-Pg49  | In Progress | 🇧🇷  | 2018 | 657 | [Link](https://www.amazon.com.br/UML-2-Uma-Abordagem-Pr%C3%A1tica/dp/8575226460) |
+| 05  | Código Limpo - Clean Code by Robert C Martin   | Ch2-Pg48 | In Progress   | 🇺🇸  | 2009 | 425   | [Link](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/)  |
 
 <!--
 
@@ -30,7 +31,7 @@ This is my personal reading list of books related to the programming and persona
 | 28  | Web Services REST com ASP .NET Web API e Windows Azure                                   | ❌                   | To Do       | 🇧🇷  | 2016 | 166   | [Link](https://www.amazon.com.br/Services-REST-NET-Windows-Azure-ebook/dp/B01FR2NUSO)                                |
 | 29  | eXtreme Programming - Práticas desenvolvimento ágil de Sw.                               | ❌                   | To Do       | 🇧🇷  | 2015 | 168   | [Link](https://www.amazon.com.br/eXtreme-Programming-Pr%C3%A1ticas-desenvolvimento-software-ebook/dp/B019NG6I9S)     |
 | 30  | Java - Como Programar [10ª Ed][deitel & deitel][2016]                                    | Ch1[ok]              | In Progress | 🇧🇷  | 2016 | 970   | [Link](https://www.amazon.com.br/eXtreme-Programming-Pr%C3%A1ticas-desenvolvimento-software-ebook/dp/B019NG6I9S)     |
-| 31  | Clean Code by Robert C Martin                                                            | ❌                   | To Do       | 🇺🇸  | 2009 | 425   | [Link](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/)                                   |
+
 | 32  | Engenharia de Software - Ian Sommerville - 9ed - 2011                                    | ❌                   | To Do       | 🇺🇸  |
 | 33  | Enhenharia de Software - Uma Aborgagem Profissional -8ed- 2016                           | ❌                   | To Do       | 🇺🇸  |
 | 34  | JavaScript: The Definitive Guide, 6E - 2011                                              | ❌                   | To Do       | 🇺🇸  |
