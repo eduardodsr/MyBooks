@@ -9,6 +9,7 @@ This is my personal reading list of books related to the programming and persona
 | 03  | Jenkins - Automatize tudo sem complicacoes   | Ch3-Pg33   | In Progress | 🇧🇷  | 2019 | 188   | [Link](https://www.casadocodigo.com.br/products/livro-jenkins) |
 | 04  | UML 2 - Uma Abordagem Prática - 3ª Edição: uma Abordagem Prática   | Ch2-Pg49  | In Progress | 🇧🇷  | 2018 | 657 | [Link](https://www.amazon.com.br/UML-2-Uma-Abordagem-Pr%C3%A1tica/dp/8575226460) |
 | 05  | Código Limpo - Clean Code by Robert C Martin   | Ch2-Pg48 | In Progress   | 🇺🇸  | 2009 | 425   | [Link](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/)  |
+| 06 | Lógica de Programação e Algorítmos com JavaScript by Edécio Fernando Iepsen (1 Ed)  | Ch13-Pg22 | In Progress  | 🇧🇷  | 2018 | 354  | [Link](https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-JavaScript-ebook/dp/B09VR2SVR7/) |
 
 <!--
 
