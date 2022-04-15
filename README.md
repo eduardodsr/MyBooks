@@ -11,11 +11,12 @@ This is my personal reading list of books related to the programming and persona
 | 05  | Código Limpo - Clean Code by Robert C Martin   | Ch2-Pg48 | In Progress   | 🇺🇸  | 2009 | 425   | [Link](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/)  |
 | 06 | Lógica de Programação e Algorítmos com JavaScript by Edécio Fernando Iepsen (1º Ed 2018)  | Ch1.3-Pg22 | In Progress  | 🇧🇷  | 2018 | 354  | [Link](https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-JavaScript-ebook/dp/B09VR2SVR7/) |
 | 07 | Refatoração by Fowler, Martin (2º Ed 2020) | Ch1-Pg21 | In Progress | 🇧🇷  | 2020 |  602 | [Link](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-design-c%C3%B3digos-existentes-ebook/dp/B087N8LKYB) |
+| 08  | 14 Hábitos de Desenvolvedores Altamente Produtivos by Zeno Rocha | Pg15 | In Progress | 🇧🇷  | 2020 | 135   | [Link](https://www.amazon.com.br/14-H%C3%A1bitos-de-Desenvolvedores-Altamente-Produtivos/dp/B08BF7PZZX/) |
 
 <!--
 
 
-| 13  | MongoDB Construa novas aplicações com novas tecnologias                                  | ❌                   | To Do       | 🇧🇷  | 2020 | 397   | [Link](https://www.amazon.com.br/MongoDB-Construa-novas-aplica%C3%A7%C3%B5es-tecnologias-ebook/dp/B019OZ902U)        |
+
 | 14  | MundoJ Orientação a Objetos                                                              | ❌                   | To Do       | 🇧🇷  | 2014 | 82    | [Link](https://www.casadocodigo.com.br/products/livro-mundoj-orientacao-objetos)                                     |
 | 15  | NoSQL Como armazenar os dados de uma aplicação moderna                                   | ❌                   | To Do       | 🇧🇷  | 2016 | 223   | [Link](https://www.amazon.com.br/NoSQL-armazenar-dados-aplica%C3%A7%C3%A3o-moderna-ebook/dp/B01J0HMMC2)              |
 | 16  | Node.js Aplicações web real-time com Node.js                                             | ❌                   | To Do       | 🇧🇷  | 2014 | 216   | [Link](https://www.amazon.com.br/Aplica%C3%A7%C3%B5es-web-real-time-com-Node-js-ebook/dp/B00VAB1HZA)                 |
