@@ -4,12 +4,12 @@ This is my personal reading list of books related to the programming and persona
 
 | Id  | Name EBOOK | Closed Page Reminder | Status | LC  | Year | Pages | Link  | 
 | --- | ---------- | -------------------- | ------ | --- | ---- | ----- | ----- | 
-| 01 | Agile - Desenvolvimento de software com entregas frequentes e foco no valor dos negócios | Ch5.1-Pg107 | In Progress | 🇧🇷 | 2014 | 214 | [Link](https://www.amazon.com.br/Agile-Desenvolvimento-software-entregas-frequentes-ebook/dp/B00VABA98G) | 
-| 02  | Controlando versões com Git e Github | Ch3-Pg27 | In Progress | 🇧🇷  | 2014 | 199   | [Link](https://www.amazon.com.br/Controlando-Vers%C3%B5es-com-Git-GitHub/dp/8566250532)  |
-| 03  | Jenkins - Automatize tudo sem complicacoes   | Ch3-Pg33   | In Progress | 🇧🇷  | 2019 | 188   | [Link](https://www.casadocodigo.com.br/products/livro-jenkins) |
-| 04  | UML 2 - Uma Abordagem Prática - 3ª Edição: uma Abordagem Prática   | Ch2-Pg49  | In Progress | 🇧🇷  | 2018 | 657 | [Link](https://www.amazon.com.br/UML-2-Uma-Abordagem-Pr%C3%A1tica/dp/8575226460) |
+| 01 | Agile - Desenvolvimento de software com entregas frequentes e foco no valor dos negócios [Casa do Código] | Ch5.1-Pg107 | In Progress | 🇧🇷 | 2014 | 214 | [Link](https://www.amazon.com.br/Agile-Desenvolvimento-software-entregas-frequentes-ebook/dp/B00VABA98G) | 
+| 02  | Controlando versões com Git e Github [Casa do Código] | Ch3-Pg27 | In Progress | 🇧🇷  | 2014 | 199   | [Link](https://www.amazon.com.br/Controlando-Vers%C3%B5es-com-Git-GitHub/dp/8566250532)  |
+| 03  | Jenkins - Automatize tudo sem complicacoes [Casa do Código]   | Ch3-Pg33   | In Progress | 🇧🇷  | 2019 | 188   | [Link](https://www.casadocodigo.com.br/products/livro-jenkins) |
+| 04  | UML 2 - Uma Abordagem Prática - 3ª Edição: uma Abordagem Prática by Gilleanes T. A. Guedes  | Ch2-Pg49  | In Progress | 🇧🇷  | 2018 | 657 | [Link](https://www.amazon.com.br/UML-2-Uma-Abordagem-Pr%C3%A1tica/dp/8575226460) |
 | 05  | Código Limpo - Clean Code by Robert C Martin   | Ch2-Pg48 | In Progress   | 🇺🇸  | 2009 | 425   | [Link](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/)  |
-| 06 | Lógica de Programação e Algorítmos com JavaScript by Edécio Fernando Iepsen (1 Ed)  | Ch13-Pg22 | In Progress  | 🇧🇷  | 2018 | 354  | [Link](https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-JavaScript-ebook/dp/B09VR2SVR7/) |
+| 06 | Lógica de Programação e Algorítmos com JavaScript by Edécio Fernando Iepsen (1ºEd 2018)  | Ch1.3-Pg22 | In Progress  | 🇧🇷  | 2018 | 354  | [Link](https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-JavaScript-ebook/dp/B09VR2SVR7/) |
 
 <!--
 
