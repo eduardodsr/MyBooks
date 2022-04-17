@@ -1,5 +1,5 @@
 # The .gitignore file is used to ignore files that are not part of the project
-# Last updated: Apr 12, 2022
+# Last updated: Apr 17, 2022
 
 # MAC OS X .DS_Store file
 .DS_Store
@@ -9,6 +9,7 @@
 
 # Diretory ignore files
 EBOOKS
+anotacoes
 
 # Ignore folder and files
-pratica
+teste
