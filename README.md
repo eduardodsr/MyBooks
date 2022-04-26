@@ -20,3 +20,4 @@ This is my personal reading list of books related to the programming and persona
 | 14  | JavaScript: The Definitive Guide, 6E - 2011                                              | ❌  | To Do       | 🇺🇸  |
 | 15 | TDD - Desenvolvimento Guiado por Testes - by Ken Beck | Ch1-Pg18  | To Do | 🇧🇷  | 2010 | 215   | [Link](https://#)  |
 | 16 | As armas da persuasão |  ✅  | Done | 🇧🇷  | 2012  | 304   | [Link](https://www.amazon.com.br/As-armas-persuas%C3%A3o-Robert-Cialdini/dp/8575428098)  |
+| 17 | Algoritmos Lógica para desenvolvimento de programação de computadores - 28º Ed |  Ch3.2-Pg44 | In Progress | 🇧🇷  | 2016  | 337  | [Link](https://www.amazon.com.br/Algoritmos-L%C3%B3gica-Desenvolvimento-Programa%C3%A7%C3%A3o-Computadores/dp/8536517476)  |
